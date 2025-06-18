@@ -1,6 +1,26 @@
 # ⚖️ Legal Analyzer LexPro
 
-An AI-powered Legal Document Intelligence Assistant that helps law firms and legal professionals extract key information from legal texts, contracts, and court files using large language models like Mistral or LLaMA2.
+## ⚖️ Real-World Use Case
+
+LexPro Law Firm deals with hundreds of legal documents daily — contracts, case files, court rulings, etc. Lawyers spend countless hours manually reviewing these documents to:
+
+- Extract **key clauses** (e.g., termination, liability, jurisdiction)
+- Summarize lengthy texts
+- Identify important **entities** (e.g., parties, dates, locations, laws)
+
+This project aims to **streamline legal review** using AI by automatically extracting critical insights from legal texts.
+
+---
+
+## 📌 Project Description
+
+**Legal Analyzer LexPro** is an AI-powered legal assistant that uses large language models (via Ollama) to analyze full-text legal documents. It simplifies legal workflows by instantly extracting:
+
+- 📝 Case summaries  
+- 📌 Key clauses  
+- 🔍 Named entities (people, organizations, laws, etc.)
+
+Documents can be uploaded as `.pdf` or `.txt` or entered as plain text. Structured outputs are downloadable for use in legal reporting or archiving.
 
 ---
 
