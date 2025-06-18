@@ -46,8 +46,7 @@ cd legal-analyzer-lexpro
     ```
     *(For a production setup, you might want to create separate `requirements.txt` files for `backend` and `frontend`.)*
 
-    ### Running the Application
-
+ ## ▶️ Running the Application
 1.  **Start the Backend API:**
     Navigate to the `backend` directory:
     ```bash
